@@ -25,6 +25,7 @@ bld/
 
 # .NET Core
 project.lock.json
+.vs
 project.fragment.lock.json
 artifacts/
 
